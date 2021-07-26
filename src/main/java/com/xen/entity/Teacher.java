@@ -7,5 +7,6 @@ package com.xen.entity;
  * @Modified By:
  */
 public class Teacher {
-
+    private  String subject;
+    private  Long number;
 }
