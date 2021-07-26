@@ -9,4 +9,5 @@ package com.xen.entity;
 public class Teacher {
     private  String subject;
     private  Long number;
+    private  String name;
 }
