@@ -7,5 +7,5 @@ package com.xen.entity;
  * @Modified By:
  */
 public class Teacher {
-
+    private  String name;
 }
