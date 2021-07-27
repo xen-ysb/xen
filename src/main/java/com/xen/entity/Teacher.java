@@ -10,4 +10,9 @@ public class Teacher {
     private  String subject;
     private  Long number;
     private  String name;
+
+    public static void main(String[] args) {
+        System.out.println("hello" +
+                "");
+    }
 }
